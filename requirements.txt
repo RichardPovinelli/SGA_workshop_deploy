@@ -1,0 +1,17 @@
+ipykernel
+matplotlib
+nbformat
+openpyxl
+pandas
+plotly
+pyarrow
+pytest
+ruff
+scikit-learn
+scipy
+statsmodels
+lightning
+lightning[extra]
+pytorch-forecasting
+torch
+xgboost
